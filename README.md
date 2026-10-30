@@ -2,6 +2,7 @@
 <div align="center">
 
 # ⚡ Automate What's Costing You Money
+For lead generation services, see the contact information in this README.
 
 ### AI Systems · Full-Stack Builds · Supply Chain Business Intelligence
 **Built for founders who move fast and waste nothing.**
@@ -127,3 +128,7 @@ I'm open to:
 *© 2026 Milan · SNTL 84 · Golden Lotus DesiDevloper · Surat, India*
 
 </div>
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
